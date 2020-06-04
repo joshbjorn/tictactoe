@@ -1,4 +1,3 @@
-
 const player = (name, marker) => {
     const setMarker = () => {
         return marker; 
